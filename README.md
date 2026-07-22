@@ -1,55 +1,58 @@
 
-# ☕ Cafe Sales Performance Dashboard
+☕ Cafe Sales Performance Dashboard
 
-An interactive Power BI dashboard designed to analyze cafe sales performance using KPIs, sales trends, payment methods, product performance, and sales channels.
+An interactive **Power BI Dashboard** built to analyze café sales performance using KPIs, sales trends, product performance, payment methods, and sales channels. This project demonstrates data cleaning, transformation, modeling, DAX, and dashboard design skills.
 
 📌 Project Overview
 
-This dashboard provides insights into:
+The dashboard provides insights into:
 
-- Total Revenue
-- Total Quantity Sold
-- Average Order Value
-- Total Transactions
-- Monthly Revenue Trend
-- Revenue by Product
-- Top 5 Products
-- Revenue by Sales Channel
-- Payment Method Distribution
+- 💰 Total Revenue
+- 📦 Total Quantity Sold
+- 💳 Average Order Value
+- 🧾 Total Transactions
+- 📈 Monthly Revenue Trends
+- 🥗 Revenue by Products
+- ⭐ Top 5 Best-Selling Products
+- 🏪 Revenue by Sales Channel
+- 💳 Payment Method Distribution
 
-🛠 Tools Used
+🛠️ Tools & Technologies
 
 - Power BI Desktop
 - Power Query
-- DAX
-- Excel
-
-
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
 
 📊 Dashboard Features
 
-- Interactive Month slicer
-- Sales Channel filter
-- Payment Method filter
+- Interactive Month Slicer
+- Sales Channel Filter
+- Payment Method Filter
 - KPI Cards
-- Line Chart
-- Bar Charts
-- Donut Chart
-- Business Insights section
+- Monthly Revenue Trend Analysis
+- Product Performance Analysis
+- Revenue by Sales Channel
+- Payment Method Distribution
+- Top 5 Products
+- Business Insights Panel
 
-📈 Key Insights
 
-- 🥗 Salad generated the highest revenue.
-- 📈 Monthly revenue remained relatively stable throughout the year.
-- 🏪 In-store sales slightly outperformed takeaway sales.
-- 💳 Digital Wallet was the most preferred payment method.
-- ⭐ Top 5 products contributed significantly to total revenue.
+📈 Key Business Insights
 
-📂 Files Included
+- 🥗 **Salad** generated the highest revenue among all products.
+- 📈 Revenue remained relatively stable throughout the year.
+- 🏪 **In-store sales** slightly outperformed takeaway sales.
+- 💳 **Digital Wallet** was the most preferred payment method.
+- ⭐ The **Top 5 products** contributed significantly to total revenue.
 
-- Cafe Sales Dashboard.pbix
-- Cafe Sales Dataset.xlsx
-- Dashboard Screenshot.png
+
+📂 Repository Contents
+
+- `Cafe Sales Dashboard.pbix`
+- `Cafe_Sales_Cleaned.xlsx`
+- `Dashboard.png`
+- `README.md`
 
 📸 Dashboard Preview
 
@@ -59,17 +62,23 @@ This dashboard provides insights into:
 🚀 Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Power Query
 - Data Modeling
 - DAX Measures
-- Interactive Dashboard Design
-- Business Intelligence
 - Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Interactive Reporting
 
 
 👨‍💻 Author
+
 Pranay Shinde
 
-GitHub: https://github.com/yourusername
+- GitHub: https://github.com/pranayshinde-2006
+- LinkedIn: *(Add your LinkedIn profile URL here)*
 
-LinkedIn: https://linkedin.com/in/yourprofile
+---
+
+⭐ If you found this project useful, feel free to star this repository!
