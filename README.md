@@ -53,7 +53,7 @@ This dashboard provides insights into:
 
 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+[Cafe Sales Dashboard](Dashboard.png)
 
 
 🚀 Skills Demonstrated
